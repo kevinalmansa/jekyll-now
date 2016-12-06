@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQL Injection
-excerpt: In this post we cover the 3 categories of SQL Injection and detail and provide examples for four types of SQLi attacks: Error, Union, Boolean and Time based attacks. Finally tips for testing SQLi are given along with resources such as cheat sheets and automated tools.
+excerpt: In this post we cover the three categories of SQL Injection and detail and provide examples for four types of SQLi attacks: Error, Union, Boolean and Time based.
 ---
 
 ## What is a SQL
