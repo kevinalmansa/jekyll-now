@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SQL Injection
+excerpt: There is a rule in Security; never trust user input. This rule is often neglected or simply unknown, and is thus the root of many attacks. SQL Injection is one such attack.
 ---
 
 ## What is a SQL
