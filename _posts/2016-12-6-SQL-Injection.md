@@ -1,4 +1,7 @@
-# SQL Injection
+---
+layout: post
+title: SQL Injection
+---
 
 ## What is a SQL
 
