@@ -145,7 +145,9 @@ of us nor do we usually know the structure of the database. This is where attack
 techniques come into play.
 
 ## Types of attacks
+
 ### Error Based Attack
+
 #### Category
 Inband technique
 
@@ -201,6 +203,7 @@ that you can inject, but even more so, it is holding your hand and telling you
 what is wrong with the query or outputting database information directly.
 
 ### Union Based Attack
+
 #### Category
 Inband technique
 
@@ -247,6 +250,7 @@ empty table (the server had an error). To get around this you can use *null*
 instead of a string or int value for extra columns.
 
 ### Boolean Based Attack
+
 #### Category
 Inferential technique
 
@@ -305,6 +309,7 @@ Using this technique we can enumerate over each character to eventually form
 the username. As you can imagine, this requires a sizeable number of queries.
 
 ### Time Based Attack
+
 #### Category
 Inferential technique
 
@@ -346,6 +351,7 @@ http://www.example.com/index.php?id=1' AND IF(ASCII(SUBSTRING(username,1,1))=97,
 ```
 
 ### Tips
+
 #### Testing for SQL Injection
 Imagine you have the following:
 
