@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQL Injection
-excerpt: There is a rule in Security; never trust user input. This rule is often neglected or simply unknown, and is thus the root of many attacks. SQL Injection is one such attack.
+excerpt: In this post we cover the 3 categories of SQL Injection and detail and provide examples for four types of SQLi attacks: Error, Union, Boolean and Time based attacks. Finally tips for testing SQLi are given along with resources such as cheat sheets and automated tools.
 ---
 
 ## What is a SQL
