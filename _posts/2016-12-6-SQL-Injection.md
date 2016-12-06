@@ -36,6 +36,7 @@ queries sent to a database they can potentially retrieve and or modify this
 information.
 
 There are three categories of SQLi:
+
 * **Inband**: The most straightforward kind of attack; data is retrieved in the
 same channel that is used to inject the SQL code. \[1].
 
@@ -48,6 +49,7 @@ resulting behavior. \[1] This attack is often called a Blind SQL Injection.
 These classes can then be broken down into various types of SQLi attacks,
 based on the configuration of the server and the behavior of the application.
 Roughly:
+
 * **Error Based Attack**: An Inband technique relying on error messages for the
 attacker to understand their target.
 
