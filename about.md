@@ -4,12 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Who Am I?
 
-### More Information
+I have recently graduated from the University of Kent with a MSc in Computer
+Security, with two undergraduate degrees, one focusing on System Administration
+& Networking, the other a three year BSc focusing on Programming.
 
-A place to include any other types of information that you'd like to include about yourself.
+I have worked in IAM, Web Development, and System Administration.
+
+My Interests include Pentesting, Programming, everything Linux and I am finally
+starting to get my feet wet in Reversing.
+
+I love discovering and learning about new technologies and how systems and
+infrastructures function.
+
+This blog will allow me to post and explain new concepts, systems and tools as
+I discover them.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kevin.almansa@gmail.com](mailto:kevin.almansa@gmail.com)
