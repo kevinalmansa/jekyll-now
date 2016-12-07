@@ -2,7 +2,7 @@
 layout: post
 title: SQL Injection
 comments: true
-excerpt: In this post we cover the three categories of SQL Injection and four types of attacks.
+excerpt: In this post we cover various categories and types of SQL Injection.
 ---
 
 ## What is a SQL
